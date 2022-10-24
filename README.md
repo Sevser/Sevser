@@ -6,7 +6,6 @@
 <code><img height="20" src="img/vue.svg"></code>
 <code><img height="20" src="img/nuxt.svg"></code>
 <code><img height="20" src="img/ts.svg"></code>
-<code><img height="20" src="img/git.svg"></code>
 <code><img height="20" src="img/webpack.svg"></code>
 <code><img height="20" src="img/figma.svg"></code>
 <code><img height="20" src="img/sass.svg"></code>
