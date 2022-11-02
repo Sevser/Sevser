@@ -1,6 +1,6 @@
-**Hi, I’m Semyon Evstigneev I am developer!**
+**My name is Semyon Evstigneev. I am a software developer.**
 
-**I am working with theese instruments**  
+**Hands-on experience with:**  
 
 <code><img height="20" src="img/js.svg"></code>
 <code><img height="20" src="img/vue.svg"></code>
@@ -15,16 +15,14 @@
 <code><img height="20" src="img/git.svg"></code>
 </br></br>
 
-
-**📫 How to reach me ...** 
+**You can reach me via …** 
 <p align="left">
 	<a href="https://github.com/Sevser"><img src="img/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/semyon-evstigneev-981a73164"><img src="img/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://leetcode.com/sevser40/"><img src="img/leetcode.svg" alt="LeetCode"></a>
-</p></br>
-</br>
+</p>
 
-**Projects I contributed to** <br/>
+**My contributions:** <br/>
 [lkk.moex.com](https://lkk.moex.com/) <br/>
 [cabinet.moex.com](https://cabinet.moex.com/) <br/>
 [school.moex.com](https://school.moex.com/) <br/>
@@ -36,7 +34,7 @@
 [pkk.rosreestr.ru/](https://pkk.rosreestr.ru/) <br/>
 [ikn.mkra.org/maps](https://ikn.mkra.org/maps/?type=0) <br/>
 
-**test assignments**<br/>
+**Completed test assignments:**<br/>
 [next + react + ts](https://sevser.github.io/KiwiTestAssignment/)<br />
 [react + ts](https://sevser.github.io/bluesweaterstudio-test-assignment/)<br />
 [vue3 + ts + indexdb](https://sevser.github.io/joinbrands_test_assgnment/)<br />
@@ -45,5 +43,5 @@
 [react + redux + ts](https://sevser.github.io/react-typescript-first-attempt/)<br />
 [react + redux + googleMapsApi](https://sevser.github.io/test_task_kiko/)<br />
 
-**My speeches** <br/>
+**My presentations:** <br/>
 [ArcGIS widgets](https://www.youtube.com/watch?v=yx1UjblSYuo) <br/>
