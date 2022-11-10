@@ -33,6 +33,7 @@
 [fcluch.ru/](https://fcluch.ru/) <br/>
 [pkk.rosreestr.ru/](https://pkk.rosreestr.ru/) <br/>
 [ikn.mkra.org/maps](https://ikn.mkra.org/maps/?type=0) <br/>
+[geospatial todo list](https://sevser.github.io/react-leaflet-todo) <br/>
 
 **Completed test assignments:**<br/>
 [next + react + ts](https://sevser.github.io/KiwiTestAssignment/)<br />
