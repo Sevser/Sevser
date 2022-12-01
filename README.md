@@ -35,7 +35,7 @@
 [ikn.mkra.org/maps](https://ikn.mkra.org/maps/?type=0) <br/>
 [geospatial todo list](https://sevser.github.io/react-leaflet-todo) <br/>
 [LowCode for figma](https://github.com/Sevser/low-code)<br />
-
+<br />
 **Completed test assignments:**<br/>
 [Letter Combinations of a Phone Number](https://sevser.github.io/KiwiTestAssignment/)<br />
 [Work with IndexDb](https://sevser.github.io/joinbrands_test_assgnment/)<br />
@@ -43,6 +43,11 @@
 [Display List of current bitcoin transaction](https://sevser.github.io/atlant_io/)<br />
 [react + redux + googleMapsApi](https://sevser.github.io/test_task_kiko/)<br />
 [react + ts](https://sevser.github.io/bluesweaterstudio-test-assignment/)<br />
-
+<br />
+**my test assignment**<br />
+[tasks microtasks queues and schedules](https://jsfiddle.net/sevser/ur2x63vg/1/) [copyright](https://jakearchibald.com/)<br />
+[function's queue](https://jsfiddle.net/sevser/sexdr2nk/)<br />
+[specificity](https://jsfiddle.net/sevser/3owht9bc/)<br />
+<br />
 **My presentations:** <br/>
 [ArcGIS widgets](https://www.youtube.com/watch?v=yx1UjblSYuo) <br/>
