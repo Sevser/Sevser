@@ -35,6 +35,7 @@
 [ikn.mkra.org/maps](https://ikn.mkra.org/maps/?type=0) <br/>
 [geospatial todo list](https://sevser.github.io/react-leaflet-todo) <br/>
 [LowCode for figma](https://github.com/Sevser/low-code)<br />
+[Apply form](https://sevser.github.io/test-apply-for-a-job-form/)<br />
 <br />
 **Completed test assignments:**<br/>
 [Letter Combinations of a Phone Number](https://sevser.github.io/KiwiTestAssignment/)<br />
@@ -51,3 +52,6 @@
 <br />
 **My presentations:** <br/>
 [ArcGIS widgets](https://www.youtube.com/watch?v=yx1UjblSYuo) <br/>
+<br/>
+**Interview preparations:** <br/>
+[link](https://github.com/Sevser/interview_preparations) <br/>
