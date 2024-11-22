@@ -1,4 +1,4 @@
-**My name is Semyon Evstigneev. I am a software developer.**
+**My name is Semyon Evstigneev. I am a software engineer.**
 
 **Hands-on experience with:**  
 
@@ -18,7 +18,6 @@
 **You can reach me via …** 
 <p align="left">
 	<a href="https://github.com/Sevser"><img src="img/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/semyon-evstigneev-981a73164"><img src="img/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://leetcode.com/sevser40/"><img src="img/leetcode.svg" alt="LeetCode"></a>
 </p>
 
