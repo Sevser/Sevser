@@ -12,13 +12,6 @@ Based in France and **open to Engineering Manager roles** where I can develop en
 
 I’m exploring how local LLMs and coding agents can improve engineering workflows. In my homelab, I benchmark model performance and use OpenTelemetry to track latency, throughput, and tool failures.
 
-## Personal projects
-
-- [Low-code for Figma](https://github.com/Sevser/low-code)  
-  Generates frontend components from Figma designs and previews them inside Figma.
-- [Geospatial to-do list](https://github.com/Sevser/react-leaflet-todo)  
-  A React and Leaflet app for pinning tasks to a map. [Live demo](https://sevser.github.io/react-leaflet-todo/).
-
 ## Tech stack
 
 ### Team management
@@ -54,6 +47,13 @@ People management · Coaching and mentoring · 1:1s and performance reviews · H
 
 - **Derzhava Platform · Senior Frontend Engineer:** Built online banking workflows with electronic signatures and set up frontend CI/CD pipelines.
 - **Data+ · Frontend Engineer:** Built web GIS applications and custom ArcGIS widgets. [Recorded talk on ArcGIS widgets](https://www.youtube.com/watch?v=yx1UjblSYuo).
+
+## Personal projects
+
+- [Low-code for Figma](https://github.com/Sevser/low-code)  
+  Generates frontend components from Figma designs and previews them inside Figma.
+- [Geospatial to-do list](https://github.com/Sevser/react-leaflet-todo)  
+  A React and Leaflet app for pinning tasks to a map. [Live demo](https://sevser.github.io/react-leaflet-todo/).
 
 ## Education
 
