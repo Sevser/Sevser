@@ -1,56 +1,60 @@
-**My name is Semyon Evstigneev. I am a software engineer.**
+# 👋 Hi, I’m Semyon Evstigneev
 
-**Hands-on experience with:**  
+**Engineering Manager · Hands-on React and TypeScript**
 
-<code><img height="20" src="img/js.svg"></code>
-<code><img height="20" src="img/vue.svg"></code>
-<code><img height="20" src="img/nuxt.svg"></code>
-<code><img height="20" src="img/react.svg"></code>
-<code><img height="20" src="img/nextjs.svg"></code>
-<code><img height="20" src="img/ts.svg"></code>
-<code><img height="20" src="img/webpack.svg"></code>
-<code><img height="20" src="img/figma.svg"></code>
-<code><img height="20" src="img/sass.svg"></code>
-<code><img height="20" src="img/babel.svg"></code>
-<code><img height="20" src="img/git.svg"></code>
-</br></br>
+I have more than 10 years of software engineering experience across frontend architecture, technical leadership, and team management. At Navee (Corsearch), I led a six-person frontend and QA team building a B2B platform for online brand protection.
 
-**You can reach me via …** 
-<p align="left">
-	<a href="https://github.com/Sevser"><img src="img/github.svg" alt="GitHub"></a>
-	<a href="https://leetcode.com/sevser40/"><img src="img/leetcode.svg" alt="LeetCode"></a>
-</p>
+Based in France and **open to Engineering Manager roles** where I can develop engineers, partner with product and design, and stay close to technical decisions.
 
-**My contributions:** <br/>
-[lkk.moex.com](https://lkk.moex.com/) <br/>
-[cabinet.moex.com](https://cabinet.moex.com/) <br/>
-[school.moex.com](https://school.moex.com/) <br/>
-[pkk.rosreestr.ru/](https://pkk.rosreestr.ru/) <br/>
-[refueler.ru](https://refueler.ru/#/) <br/>
-[serval-cloud.ru](https://serval-cloud.ru/) <br/>
-[lk.serval-cloud.ru](https://lk.serval-cloud.ru/) <br/>
-[fcluch.ru/](https://fcluch.ru/) <br/>
-[pkk.rosreestr.ru/](https://pkk.rosreestr.ru/) <br/>
-[ikn.mkra.org/maps](https://ikn.mkra.org/maps/?type=0) <br/>
-[geospatial todo list](https://sevser.github.io/react-leaflet-todo) <br/>
-[LowCode for figma](https://github.com/Sevser/low-code)<br />
-[Apply form](https://sevser.github.io/test-apply-for-a-job-form/)<br />
-<br />
-**Completed test assignments:**<br/>
-[Letter Combinations of a Phone Number](https://sevser.github.io/KiwiTestAssignment/)<br />
-[Work with IndexDb](https://sevser.github.io/joinbrands_test_assgnment/)<br />
-[Todo List](https://sevser.github.io/react-typescript-first-attempt/)<br />
-[Display List of current bitcoin transaction](https://sevser.github.io/atlant_io/)<br />
-[react + redux + googleMapsApi](https://sevser.github.io/test_task_kiko/)<br />
-[react + ts](https://sevser.github.io/bluesweaterstudio-test-assignment/)<br />
-<br />
-**my test assignment**<br />
-[tasks microtasks queues and schedules](https://jsfiddle.net/sevser/ur2x63vg/1/) [copyright](https://jakearchibald.com/)<br />
-[function's queue](https://jsfiddle.net/sevser/sexdr2nk/)<br />
-[specificity](https://jsfiddle.net/sevser/3owht9bc/)<br />
-<br />
-**My presentations:** <br/>
-[ArcGIS widgets](https://www.youtube.com/watch?v=yx1UjblSYuo) <br/>
-<br/>
-**Interview preparations:** <br/>
-[link](https://github.com/Sevser/interview_preparations) <br/>
+---
+
+## Current focus
+
+I’m exploring how local LLMs and coding agents can improve engineering workflows. In my homelab, I benchmark model performance and use OpenTelemetry to track latency, throughput, and tool failures.
+
+## Tech stack
+
+### Team management
+
+People management · Coaching and mentoring · 1:1s and performance reviews · Hiring and onboarding · Delivery management · Stakeholder alignment
+
+### Hands-on experience
+
+- **Frontend:** TypeScript · JavaScript · React · React Router · Axios · Storybook
+- **Build and quality:** Bun · Rspack ecosystem · Oxlint · Cypress · CI/CD
+- **Backend and cloud:** Node.js · PostgreSQL · AWS
+
+## Work experience
+
+### Navee (Corsearch) · 2023–2026
+
+**Tech Lead**
+
+- Managed five frontend engineers and one QA engineer. Introduced regular 1:1s and individual growth plans, supported three formal promotions, and helped a manual QA engineer build an end-to-end automation practice.
+- Led a UI component migration across 39 pages and 55 screens.
+- Supported engineer-led improvements that made test execution 35× faster and reduced production build time by 45%.
+
+**Senior Frontend Engineer**
+
+- Designed a shared filtering system that cut the time to add a filter from four days to one.
+- Expanded automated coverage for critical user flows and improved release checks.
+
+### Smart IT · Lead Frontend Engineer · 2021–2023
+
+- Led development of a Figma-to-code prototype and built web applications for Moscow Exchange’s corporate clients.
+
+### Earlier roles
+
+- **Derzhava Platform · Senior Frontend Engineer:** Built online banking workflows with electronic signatures and set up frontend CI/CD pipelines.
+- **Data+ · Frontend Engineer:** Built web GIS applications and custom ArcGIS widgets. [Recorded talk on ArcGIS widgets](https://www.youtube.com/watch?v=yx1UjblSYuo).
+
+## Personal projects
+
+- [Low-code for Figma](https://github.com/Sevser/low-code)  
+  Generates frontend components from Figma designs and previews them inside Figma.
+- [Geospatial to-do list](https://github.com/Sevser/react-leaflet-todo)  
+  A React and Leaflet app for pinning tasks to a map. [Live demo](https://sevser.github.io/react-leaflet-todo/).
+
+## Education
+
+**Moscow Institute of Physics and Technology** · BSc in Applied Mathematics and Informatics
