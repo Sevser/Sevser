@@ -12,9 +12,9 @@ I’m open to Engineering Manager roles where I can develop engineers, partner w
 - **Frontend architecture.** Designed a shared filtering system that reduced the time to add a filter from four days to one. Led a UI component migration across 39 pages and 55 screens.
 - **Engineering productivity.** Supported engineer-led improvements that made test execution 35× faster and production builds 45% faster.
 
-## Technology
+## Hands-on experience
 
-React · TypeScript · JavaScript · Storybook · Cypress · Rspack · Bun · Node.js · PostgreSQL · AWS · CI/CD
+TypeScript · React · React Router · Axios · Bun · Rspack ecosystem · Oxlint · JavaScript · Storybook · Cypress · Node.js · PostgreSQL · AWS · CI/CD
 
 ## Public projects
 
